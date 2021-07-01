@@ -6,7 +6,7 @@
 
 <p align="left">
   - 💻 Linguagens: <strong> HTML, CSS, JS.</strong>
-  - 🔍 Atualmente buscando estágio na área de Desenvolvimento.
+  - <br> 🔍 Atualmente buscando estágio na área de Desenvolvimento. </br>
 </p>
 
 
