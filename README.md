@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  - 💻 Linguagens: <strong> HTML, CSS, JS.</strong>
+  - 💻 Linguagens: <strong> HTML, CSS.</strong>
   <br> - 🔍 Buscando estágio na área de Desenvolvimento. </br>
 </p>
 
