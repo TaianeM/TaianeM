@@ -6,6 +6,7 @@
 
 <p align="left">
   <br> - 🔍 Buscando estágio na área de Desenvolvimento. </br>
+  - 💻 Interesse em Desenvolvimento Fullstack.
 </p>
 
 
