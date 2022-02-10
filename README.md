@@ -8,6 +8,9 @@
   <br> - 🔍 Buscando estágio na área de Desenvolvimento. </br>
   - 💻 Interesse em Desenvolvimento Fullstack.
 </p>
+<h3> Linguagens </h3>
+<p align="left"> Backend </p>
+
 
 
 **Entre em contato:**
