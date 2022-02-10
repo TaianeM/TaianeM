@@ -9,7 +9,7 @@
   - 💻 Interesse em Desenvolvimento Fullstack.
 </p>
 <h3> Linguagens </h3>
-<p align="left"> Backend </p>
+<p align="left"> <strong> Backend: </strong> Java, PHP. </p>
 
 
 
