@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <br> - 🔍 Buscando estágio na área de Desenvolvimento. </br>
+  <br> - 🔍 Atuando como Desenvolvedora Backend - PHP. </br>
   - 💻 Interesse em Desenvolvimento Fullstack.
 </p>
 <h3> Linguagens. </h3>
