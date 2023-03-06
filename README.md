@@ -5,8 +5,7 @@
 </p>
 
 <p align="left">
-  <br> - 🔍 Atuando como Desenvolvedora Backend - PHP. </br>
-  - 💻 Interesse em Desenvolvimento Fullstack.
+  <br> -  💻 Atuando como Desenvolvedora Backend - PHP. </br>
 </p>
 <h3> Linguagens. </h3>
 <p align="left"> <strong> Backend: </strong> PHP. </p>
