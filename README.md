@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador TaianeM">
 
 <p align="left"> 
-  Olá, meu nome é Taiane, sou Técnica em Informática formada pelo IFRO, atualmente cursando o 5º semestre de Analise e Desenvolvimento de Sistemas.
+  Olá, meu nome é Taiane, sou Analista de Sistemas e Técnica em Informática formada pelo IFRO.
 </p>
 
 <p align="left">
