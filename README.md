@@ -8,10 +8,10 @@
   <br> -  💻 Atuando como Desenvolvedora Backend Pleno - PHP. </br>
 </p>
 <h3> Linguagens. </h3>
-<p align="left"> <strong> Backend: </strong> PHP. </p>
-<p align="left"> <strong> Framework: </strong> Laravel. </p>
-<p align="left"> <strong> Front-end: </strong> HTML, CSS, Javascript, Bootstrap. </p>
-<p align="left"> <strong> Banco de Dados: </strong> MySQL. </p>
+<p align="left"> <strong> Backend: </strong> PHP, Python. </p>
+<p align="left"> <strong> Framework: </strong> Laravel, Flask. </p>
+<p align="left"> <strong> Front-end: </strong> Vue, Angular, HTML, CSS, Javascript, Bootstrap. </p>
+<p align="left"> <strong> Banco de Dados: </strong> MySQL, MongoDB, SqlServer. </p>
 
 
 
